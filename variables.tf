@@ -18,7 +18,7 @@ variable "vpc_cidr" {
 
 variable "vpc_name" {
   type    = string
-  default = "vpc-hands-in"
+  default = "vpc-hands-on"
 }
 
 variable "private_subnets" {
